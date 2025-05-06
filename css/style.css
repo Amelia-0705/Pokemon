@@ -1,0 +1,23 @@
+.contenedor-imagenes-evoluciones {display: flex; width: 50%; height: auto;}
+
+.pokemon-encabezado {justify-content: center;}
+
+/* ====================== IMAGENES ===================== */
+.card-img-top {width: 10%; height: auto;}
+.primera-evolucion {width: 50%; height: auto;}
+.segunda-evolucion {width: 50%; height: auto;}
+
+
+.caja-evoluciones {width: 100%; height: 150px;}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imgLogo {
+    width: 120px;
+    border-radius: 20px;
+    filter: contrast(200%);
+
+}
